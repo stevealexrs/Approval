@@ -1,0 +1,71 @@
+[nodes]
+# Arbitrum Nova
+42170 = [
+    'https://arbitrum-nova.public.blastapi.io',
+    'https://nova.arbitrum.io/rpc'
+]
+# Arbitrum One
+42161 = [
+    'https://arb1.croswap.com/rpc',
+    'https://arb1.arbitrum.io/rpc'
+]
+# Avalanche C-Chain
+43114 = [
+    'https://avalanche-c-chain.publicnode.com',
+    'https://avalanche.public-rpc.com'
+]
+# Boba Network
+288 = [
+    'https://mainnet.boba.network',
+    'https://lightning-replica.boba.network'
+]
+# Binance Smart Chain Mainnet
+56 = [
+    'https://bsc-dataseed4.defibit.io',
+    'https://rpc-bsc.48.club'
+]
+# Ethereum Mainnet
+1 = [
+    'https://eth.llamarpc.com',
+    'https://ethereum.publicnode.com'
+]
+# Fantom Opera
+250 = [
+    'https://endpoints.omniatech.io/v1/fantom/mainnet/public',
+    'https://rpc3.fantom.network'
+]
+# Fuse Mainnet
+122 = [
+    'https://fuse-mainnet.chainstacklabs.com',
+    'https://rpc.fuse.io'
+]
+# Gnosis
+100 = [
+    'https://rpc.ap-southeast-1.gateway.fm/v4/gnosis/non-archival/mainnet',
+    'https://rpc.gnosischain.com'
+]
+# Moonbeam
+1284 = [
+    'https://moonbeam.unitedbloc.com:3000',
+    'https://rpc.ankr.com/moonbeam'
+]
+# Moonriver
+1285 = [
+    'https://moonriver.api.onfinality.io/public',
+    'https://rpc.api.moonriver.moonbeam.network'
+]
+# Optimism
+10 = [
+    'https://mainnet.optimism.io',
+    'https://endpoints.omniatech.io/v1/op/mainnet/public'
+]
+# Polygon Mainnet
+137 = [
+    'https://rpc-mainnet.matic.quiknode.pro',
+    'https://polygon.llamarpc.com'
+]
+# Polygon zkEVM
+1101 = [
+    'https://zkevm-rpc.com',
+    'https://rpc.ankr.com/polygon_zkevm'
+]

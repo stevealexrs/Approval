@@ -1,0 +1,457 @@
+[tokens]
+
+# Ethereum Mainnet
+[[tokens.1]]
+symbol = "WETH"
+type = "erc20"
+address = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+[[tokens.1]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+[[tokens.1]]
+symbol = "USDT"
+type = "erc20"
+address = "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+[[tokens.1]]
+symbol = "USDC"
+type = "erc20"
+address = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+[[tokens.1]]
+symbol = "DAI"
+type = "erc20"
+address = "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+[[tokens.1]]
+symbol = "BUSD"
+type = "erc20"
+address = "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+[[tokens.1]]
+symbol = "BNB"
+type = "erc20"
+address = "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+[[tokens.1]]
+symbol = "stETH"
+type = "erc20"
+address = "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+[[tokens.1]]
+symbol = "MATIC"
+type = "erc20"
+address = "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+[[tokens.1]]
+symbol = "SHIB"
+type = "erc20"
+address = "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+[[tokens.1]]
+symbol = "MLOOT"
+type = "erc721"
+address = "0x1dfe7Ca09e99d10835Bf73044a23B73Fc20623DF"
+[[tokens.1]]
+symbol = "BAYC"
+type = "erc721"
+address = "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D"
+[[tokens.1]]
+symbol = "BLOCKS"
+type = "erc721"
+address = "0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270"
+[[tokens.1]]
+symbol = "MAYC"
+type = "erc721"
+address = "0x60E4d786628Fea6478F785A6d7e704777c86a7c6"
+
+# Arbitrum Nova
+[[tokens.42170]]
+symbol = "ARB"
+type = "erc20"
+address = "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD"
+[[tokens.42170]]
+symbol = "WETH"
+type = "erc20"
+address = "0x722E8BdD2ce80A4422E880164f2079488e115365"
+[[tokens.42170]]
+symbol = "USDC"
+type = "erc20"
+address = "0x750ba8b76187092B0D1E87E28daaf484d1b5273b"
+[[tokens.42170]]
+symbol = "DAI"
+type = "erc20"
+address = "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+[[tokens.42170]]
+symbol = "USDT"
+type = "erc20"
+address = "0x52484E1ab2e2B22420a25c20FA49E173a26202Cd"
+[[tokens.42170]]
+symbol = "MOON"
+type = "erc20"
+address = "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0"
+
+# Arbitrum One
+[[tokens.42161]]
+symbol = "ARB"
+type = "erc20"
+address = "0x912CE59144191C1204E64559FE8253a0e49E6548"
+[[tokens.42161]]
+symbol = "WETH"
+type = "erc20"
+address = "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+[[tokens.42161]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+[[tokens.42161]]
+symbol = "USDC"
+type = "erc20"
+address = "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+[[tokens.42161]]
+symbol = "DAI"
+type = "erc20"
+address = "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+[[tokens.42161]]
+symbol = "USDT"
+type = "erc20"
+address = "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+[[tokens.42161]]
+symbol = "UNI"
+type = "erc20"
+address = "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0"
+[[tokens.42161]]
+symbol = "LINK"
+type = "erc20"
+address = "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+[[tokens.42161]]
+symbol = "TUSD"
+type = "erc20"
+address = "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07"
+[[tokens.42161]]
+symbol = "LDO"
+type = "erc20"
+address = "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60"
+
+# Avalanche C-Chain
+[[tokens.43114]]
+symbol = "WAVAX"
+type = "erc20"
+address = "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+[[tokens.43114]]
+symbol = "WETH.e"
+type = "erc20"
+address = "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+[[tokens.43114]]
+symbol = "BTC.b"
+type = "erc20"
+address = "0x152b9d0FdC40C096757F570A51E494bd4b943E50"
+[[tokens.43114]]
+symbol = "WBTC.e"
+type = "erc20"
+address = "0x50b7545627a5162F82A992c33b87aDc75187B218"
+[[tokens.43114]]
+symbol = "USDt"
+type = "erc20"
+address = "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+[[tokens.43114]]
+symbol = "USDT.e"
+type = "erc20"
+address = "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+[[tokens.43114]]
+symbol = "USDC"
+type = "erc20"
+address = "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+[[tokens.43114]]
+symbol = "USDC.e"
+type = "erc20"
+address = "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664"
+[[tokens.43114]]
+symbol = "BUSD"
+type = "erc20"
+address = "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+[[tokens.43114]]
+symbol = "DAI.e"
+type = "erc20"
+address = "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+[[tokens.43114]]
+symbol = "LINK.e"
+type = "erc20"
+address = "0x5947BB275c521040051D82396192181b413227A3"
+
+# Optimism
+[[tokens.10]]
+symbol = "OP"
+type = "erc20"
+address = "0x4200000000000000000000000000000000000042"
+[[tokens.10]]
+symbol = "WETH"
+type = "erc20"
+address = "0x4200000000000000000000000000000000000006"
+[[tokens.10]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x68f180fcCe6836688e9084f035309E29Bf0A2095"
+[[tokens.10]]
+symbol = "USDT"
+type = "erc20"
+address = "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+[[tokens.10]]
+symbol = "USDC"
+type = "erc20"
+address = "0x7F5c764cBc14f9669B88837ca1490cCa17c31607"
+[[tokens.10]]
+symbol = "DAI"
+type = "erc20"
+address = "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+[[tokens.10]]
+symbol = "LINK"
+type = "erc20"
+address = "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6"
+[[tokens.10]]
+symbol = "LDO"
+type = "erc20"
+address = "0xFdb794692724153d1488CcdBE0C56c252596735F"
+[[tokens.10]]
+symbol = "FRAX"
+type = "erc20"
+address = "0x2E3D870790dC77A83DD1d18184Acc7439A53f475"
+[[tokens.10]]
+symbol = "SNX"
+type = "erc20"
+address = "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4"
+
+# Binance Smart Chain Mainnet
+[[tokens.56]]
+symbol = "WBNB"
+type = "erc20"
+address = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+[[tokens.56]]
+symbol = "ETH"
+type = "erc20"
+address = "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+[[tokens.56]]
+symbol = "BTCB"
+type = "erc20"
+address = "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+[[tokens.56]]
+symbol = "BSC-USD"
+type = "erc20"
+address = "0x55d398326f99059fF775485246999027B3197955"
+[[tokens.56]]
+symbol = "BUSD"
+type = "erc20"
+address = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+[[tokens.56]]
+symbol = "DAI"
+type = "erc20"
+address = "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+[[tokens.56]]
+symbol = "USDC"
+type = "erc20"
+address = "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+[[tokens.56]]
+symbol = "XRP"
+type = "erc20"
+address = "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+[[tokens.56]]
+symbol = "ADA"
+type = "erc20"
+address = "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47"
+[[tokens.56]]
+symbol = "DOGE"
+type = "erc20"
+address = "0xbA2aE424d960c26247Dd6c32edC70B295c744C43"
+[[tokens.56]]
+symbol = "MATIC"
+type = "erc20"
+address = "0xCC42724C6683B7E57334c4E856f4c9965ED682bD"
+
+# Polygon Mainnet
+[[tokens.137]]
+symbol = "MATIC"
+type = "erc20"
+address = "0x0000000000000000000000000000000000001010"
+[[tokens.137]]
+symbol = "WETH"
+type = "erc20"
+address = "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+[[tokens.137]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+[[tokens.137]]
+symbol = "USDT"
+type = "erc20"
+address = "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+[[tokens.137]]
+symbol = "USDC"
+type = "erc20"
+address = "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+[[tokens.137]]
+symbol = "DAI"
+type = "erc20"
+address = "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+[[tokens.137]]
+symbol = "LINK"
+type = "erc20"
+address = "0xb0897686c545045aFc77CF20eC7A532E3120E0F1"
+[[tokens.137]]
+symbol = "MANA"
+type = "erc20"
+address = "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+
+# Polygon zkEVM
+[[tokens.1101]]
+symbol = "MATIC"
+type = "erc20"
+address = "0xa2036f0538221a77A3937F1379699f44945018d0"
+[[tokens.1101]]
+symbol = "WETH"
+type = "erc20"
+address = "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9"
+[[tokens.1101]]
+symbol = "USDC"
+type = "erc20"
+address = "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035"
+[[tokens.1101]]
+symbol = "USDT"
+type = "erc20"
+address = "0x1E4a5963aBFD975d8c9021ce480b42188849D41d"
+[[tokens.1101]]
+symbol = "DAI"
+type = "erc20"
+address = "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4"
+
+# Boba Network
+[[tokens.288]]
+symbol = "BOBA"
+type = "erc20"
+address = "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7"
+[[tokens.288]]
+symbol = "WETH"
+type = "erc20"
+address = "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+[[tokens.288]]
+symbol = "WBTC"
+type = "erc20"
+address = "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b"
+[[tokens.288]]
+symbol = "USDT"
+type = "erc20"
+address = "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d"
+[[tokens.288]]
+symbol = "BUSD"
+type = "erc20"
+address = "0x352F2Fdf653A194B42e3311f869237c66309b69E"
+[[tokens.288]]
+symbol = "MATIC"
+type = "erc20"
+address = "0x26b664736217407E0FA252b4578DB23B1E3819F3"
+
+# Fantom Opera
+[[tokens.250]]
+symbol = "WFTM"
+type = "erc20"
+address = "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+[[tokens.250]]
+symbol = "SFTM"
+type = "erc20"
+address = "0x69c744D3444202d35a2783929a0F930f2FBB05ad"
+[[tokens.250]]
+symbol = "WETH"
+type = "erc20"
+address = "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+[[tokens.250]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+[[tokens.250]]
+symbol = "USDC"
+type = "erc20"
+address = "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+[[tokens.250]]
+symbol = "DAI"
+type = "erc20"
+address = "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+[[tokens.250]]
+symbol = "FRAX"
+type = "erc20"
+address = "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355"
+
+# Fuse Mainnet
+[[tokens.122]]
+symbol = "WFUSE"
+type = "erc20"
+address = "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629"
+[[tokens.122]]
+symbol = "USDC"
+type = "erc20"
+address = "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5"
+[[tokens.122]]
+symbol = "USDT"
+type = "erc20"
+address = "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10"
+[[tokens.122]]
+symbol = "BUSD"
+type = "erc20"
+address = "0x6a5F6A8121592BeCd6747a38d67451B310F7f156"
+[[tokens.122]]
+symbol = "fUSD"
+type = "erc20"
+address = "0x249BE57637D8B013Ad64785404b24aeBaE9B098B"
+[[tokens.122]]
+symbol = "VOLT"
+type = "erc20"
+address = "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4"
+
+# Gnosis
+[[tokens.100]]
+symbol = "WXDAI"
+type = "erc20"
+address = "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d"
+[[tokens.100]]
+symbol = "GNO"
+type = "erc20"
+address = "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb"
+[[tokens.100]]
+symbol = "WETH"
+type = "erc20"
+address = "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+[[tokens.100]]
+symbol = "WBTC"
+type = "erc20"
+address = "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252"
+[[tokens.100]]
+symbol = "USDT"
+type = "erc20"
+address = "0x4ECaBa5870353805a9F068101A40E0f32ed605C6"
+[[tokens.100]]
+symbol = "USDC"
+type = "erc20"
+address = "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83"
+
+# Moonbeam
+[[tokens.1284]]
+symbol = "WGLMR"
+type = "erc20"
+address = "0xAcc15dC74880C9944775448304B263D191c6077F"
+[[tokens.1284]]
+symbol = "WBTC"
+type = "erc20"
+address = "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D"
+[[tokens.1284]]
+symbol = "WETH"
+type = "erc20"
+address = "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD"
+[[tokens.1284]]
+symbol = "USDC"
+type = "erc20"
+address = "0x931715FEE2d06333043d11F658C8CE934aC61D0c"
+[[tokens.1284]]
+symbol = "GLINT"
+type = "erc20"
+address = "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58"
+[[tokens.1284]]
+symbol = "STELLA"
+type = "erc20"
+address = "0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2"
+
+# Moonriver
+[[tokens.1285]]
+symbol = "WMOVR"
+type = "erc20"
+address = "0x98878B06940aE243284CA214f92Bb71a2b032B8A"
